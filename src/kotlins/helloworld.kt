@@ -1,5 +1,0 @@
-package kotlins
-
-class helloworld {
-
-}
